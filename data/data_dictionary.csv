@@ -1,0 +1,27 @@
+variable,source,type,units,allowed_values_or_range,meaning,role_in_study
+operator,MySpeed (raw),categorical (text),none,"JIO, AIRTEL, IDEA, VODAFONE, Vi India, CELLONE, BSNL, DOLPHIN, UNINOR",Telecom provider of the phone that ran the test,Source of provider (after mapping)
+technology,MySpeed (raw),categorical (text),none,"2G, 3G, 4G",Network generation during the test,Filter (4G main analysis) and control
+download,MySpeed (raw),categorical (text),none,"download, upload",Type of speed test,Filter (download tests for RQ1/RQ2/RQ4)
+speed_kbps,MySpeed (raw),numeric continuous,kilobits per second,0 to 149999,Measured data speed of the test,Base of the dependent variables
+signal_strength,MySpeed (raw),numeric (stored as text),dBm,"-112 to -50; 'na' = missing (9.5%)",Received signal strength during the test (strength only; no SINR/quality),"Control variable (RQ1, RQ2; models with and without it); model feature (RQ4); missingness studied in RQ5"
+lsa,MySpeed (raw),categorical (text),none,"23 licensed service areas + 'NA' (19.9% missing)",Telecom circle (licensed service area) of the test,Grouping; source of circle_category
+month,MySpeed (raw),integer,month,1 to 12,Month of the test,Time control
+year,MySpeed (raw),integer,year,2018 to 2025 (study uses Apr 2018 to Dec 2024),Year of the test,Time control and trend variable
+circle,TRAI press release Annexure I/II,categorical (text),none,22 service areas,Telecom circle,Join key to MySpeed lsa
+provider_column,TRAI press release Annexure I/II,categorical (text),none,"Bharti Airtel, Reliance Jio, Vodafone Idea (Vodafone and Idea before Aug 2018), BSNL (+VNOs), others",Provider column in the table,Join key after mapping
+wireless_subscribers,TRAI press release Annexure I,integer count,subscribers,0 to about 1.2 billion (all-India total),Wireless subscribers at month end,Denominator for subscriber share (RQ3) and test density (RQ5)
+vlr_pct,TRAI press release Annexure II,numeric,percent,0 to about 110,Share of subscribers active (in VLR) on the peak day,Active subscribers for RQ5
+active_subs,Derived,numeric,millions,per provider x circle x month,"wireless_subscribers x vlr_pct / 100; proxy for network load (users sharing capacity); coarse, circle level","Control variable (RQ1, RQ2); model feature (RQ4)"
+provider,Derived,categorical,none,"Jio, Airtel, Vi, BSNL","JIO->Jio; AIRTEL->Airtel; IDEA, VODAFONE, Vi India->Vi; CELLONE, BSNL->BSNL; DOLPHIN, UNINOR excluded",Independent variable (RQ2 to RQ5)
+circle_category,Derived,categorical (ordered),none,"Metro, A, B, C",TRAI circle category mapped from lsa,Main independent variable (RQ1 to RQ4)
+download_mbps,Derived,numeric continuous,megabits per second,0 to 150,speed_kbps / 1000,Descriptive statistics
+log_speed,Derived,numeric continuous,log Mbps,,ln(1 + download_mbps),Dependent variable (RQ1 and RQ2)
+poor_speed,Derived,binary,none,0 or 1,1 if 4G download_mbps is below the 20th percentile of the 2018-2022 training data,Target of the ML model (RQ4)
+circle_missing,Derived,binary,none,0 or 1,1 if lsa = NA,Dependent variable (RQ5)
+signal_missing,Derived,binary,none,0 or 1,1 if signal_strength = na,Dependent variable (RQ5)
+test_share,Derived,proportion,share (0 to 1),0 to 1,Provider share of MySpeed tests in a circle-month,RQ3
+subscriber_share,Derived,proportion,share (0 to 1),0 to 1,Provider share of wireless subscribers in a circle-month,RQ3 benchmark
+representation_ratio,Derived,ratio,none,>0 (1 = fair representation),test_share / subscriber_share,Dependent variable (RQ3)
+weight,Derived,ratio,none,>0,subscriber_share / test_share (post-stratification weight),Re-weighting in RQ3 and RQ4
+tests_per_1000_active,Derived,rate,tests per 1000 active subscribers,>=0,tests / (subscribers x vlr_pct/100 / 1000) per circle-month,Dependent variable (RQ5)
+period,Derived,categorical,none,"2018-2022 (train/validation), 2023-2024 (test)",Time split for the model,Temporal hold-out (RQ4)
