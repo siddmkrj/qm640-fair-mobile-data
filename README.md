@@ -1,6 +1,6 @@
 # Fair Mobile Data Service in India
 
-QM 640 Data Analytics Capstone, Walsh College. Siddhartha Mukherjee; mentor Ms Sanhita Karmakar.
+QM 640 Data Analytics Capstone, Walsh College. Siddhartha Mukherjee; mentor Mr Rishabh Pandey.
 Uses only public Indian government data, with no personal information (nothing finer than a telecom circle).
 
 ## Research questions
