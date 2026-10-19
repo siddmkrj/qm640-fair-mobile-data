@@ -1,0 +1,15 @@
+item,n
+raw records,54006839
+outside window (2025 Jan-Mar),289564
+DOLPHIN or UNINOR,842
+in-window study records,53716433
+circle missing (NA),10727174
+signal missing (na),5109940
+speed = 0 kbps,169813
+"speed at cap (>=149,000 kbps)",233
+speed null,0
+signal outside -120..-40 dBm,0
+2G tests,1237
+4G download tests,25687492
+4G download with circle,20456128
+4G download with circle and signal,18548574

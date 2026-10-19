@@ -1,0 +1,93 @@
+circle,category,provider,n
+Andhra Pradesh,A,Airtel,664177
+Andhra Pradesh,A,BSNL,234655
+Andhra Pradesh,A,Jio,1526485
+Andhra Pradesh,A,Vi,269914
+Assam,C,Airtel,102545
+Assam,C,BSNL,3558
+Assam,C,Jio,281910
+Assam,C,Vi,52883
+Bihar,C,Airtel,533818
+Bihar,C,BSNL,14614
+Bihar,C,Jio,964669
+Bihar,C,Vi,80410
+Chennai,Metro,Airtel,174714
+Chennai,Metro,BSNL,35831
+Chennai,Metro,Jio,280400
+Chennai,Metro,Vi,108386
+Delhi,Metro,Airtel,444482
+Delhi,Metro,BSNL,197
+Delhi,Metro,Jio,1377577
+Delhi,Metro,Vi,258833
+Gujarat,A,Airtel,248277
+Gujarat,A,BSNL,12283
+Gujarat,A,Jio,1426551
+Gujarat,A,Vi,526788
+Haryana,B,Airtel,3064307
+Haryana,B,BSNL,18491
+Haryana,B,Jio,2766615
+Haryana,B,Vi,188023
+Himachal Pradesh,C,Airtel,121137
+Himachal Pradesh,C,BSNL,23386
+Himachal Pradesh,C,Jio,187700
+Himachal Pradesh,C,Vi,11867
+Jammu & Kashmir,C,Airtel,144926
+Jammu & Kashmir,C,BSNL,5616
+Jammu & Kashmir,C,Jio,133776
+Jammu & Kashmir,C,Vi,37444
+Karnataka,A,Airtel,477396
+Karnataka,A,BSNL,89016
+Karnataka,A,Jio,1072947
+Karnataka,A,Vi,209033
+Kerala,B,Airtel,505866
+Kerala,B,BSNL,177686
+Kerala,B,Jio,1471186
+Kerala,B,Vi,553245
+Kolkata,Metro,Airtel,151626
+Kolkata,Metro,BSNL,7298
+Kolkata,Metro,Jio,782530
+Kolkata,Metro,Vi,175310
+Madhya Pradesh,B,Airtel,294182
+Madhya Pradesh,B,BSNL,67318
+Madhya Pradesh,B,Jio,1502650
+Madhya Pradesh,B,Vi,379131
+Maharashtra,A,Airtel,669493
+Maharashtra,A,BSNL,143515
+Maharashtra,A,Jio,2082606
+Maharashtra,A,Vi,1054626
+Mumbai,Metro,Airtel,195703
+Mumbai,Metro,BSNL,55
+Mumbai,Metro,Jio,947626
+Mumbai,Metro,Vi,230291
+North East,C,Airtel,105607
+North East,C,BSNL,4309
+North East,C,Jio,184568
+North East,C,Vi,31976
+Orissa,C,Airtel,196369
+Orissa,C,BSNL,7537
+Orissa,C,Jio,898218
+Orissa,C,Vi,54948
+Punjab,B,Airtel,355021
+Punjab,B,BSNL,28469
+Punjab,B,Jio,866821
+Punjab,B,Vi,137991
+Rajasthan,B,Airtel,370171
+Rajasthan,B,BSNL,42226
+Rajasthan,B,Jio,1207351
+Rajasthan,B,Vi,198701
+Tamil Nadu,A,Airtel,429628
+Tamil Nadu,A,BSNL,139887
+Tamil Nadu,A,Jio,1186536
+Tamil Nadu,A,Vi,312949
+UP East,B,Airtel,1064136
+UP East,B,BSNL,39836
+UP East,B,Jio,2126276
+UP East,B,Vi,486010
+UP West,B,Airtel,387910
+UP West,B,BSNL,29560
+UP West,B,Jio,1199662
+UP West,B,Vi,326864
+West Bengal,B,Airtel,256788
+West Bengal,B,BSNL,10385
+West Bengal,B,Jio,570250
+West Bengal,B,Vi,164719

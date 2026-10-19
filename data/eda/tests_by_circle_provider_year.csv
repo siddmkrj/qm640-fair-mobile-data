@@ -1,0 +1,640 @@
+circle,category,provider,year,n
+Andhra Pradesh,A,Airtel,2018,168805
+Andhra Pradesh,A,Airtel,2019,98714
+Andhra Pradesh,A,Airtel,2020,146893
+Andhra Pradesh,A,Airtel,2021,73184
+Andhra Pradesh,A,Airtel,2022,52819
+Andhra Pradesh,A,Airtel,2023,81434
+Andhra Pradesh,A,Airtel,2024,42328
+Andhra Pradesh,A,BSNL,2018,35277
+Andhra Pradesh,A,BSNL,2019,77365
+Andhra Pradesh,A,BSNL,2020,44456
+Andhra Pradesh,A,BSNL,2021,27501
+Andhra Pradesh,A,BSNL,2022,18801
+Andhra Pradesh,A,BSNL,2023,13002
+Andhra Pradesh,A,BSNL,2024,18253
+Andhra Pradesh,A,Jio,2018,567897
+Andhra Pradesh,A,Jio,2019,311710
+Andhra Pradesh,A,Jio,2020,192337
+Andhra Pradesh,A,Jio,2021,137309
+Andhra Pradesh,A,Jio,2022,121823
+Andhra Pradesh,A,Jio,2023,124562
+Andhra Pradesh,A,Jio,2024,70847
+Andhra Pradesh,A,Vi,2018,101108
+Andhra Pradesh,A,Vi,2019,85690
+Andhra Pradesh,A,Vi,2020,45025
+Andhra Pradesh,A,Vi,2021,15693
+Andhra Pradesh,A,Vi,2022,5155
+Andhra Pradesh,A,Vi,2023,9580
+Andhra Pradesh,A,Vi,2024,7663
+Assam,C,Airtel,2018,46012
+Assam,C,Airtel,2019,20753
+Assam,C,Airtel,2020,6151
+Assam,C,Airtel,2021,4026
+Assam,C,Airtel,2022,4943
+Assam,C,Airtel,2023,13021
+Assam,C,Airtel,2024,7639
+Assam,C,BSNL,2018,275
+Assam,C,BSNL,2019,72
+Assam,C,BSNL,2020,26
+Assam,C,BSNL,2021,10
+Assam,C,BSNL,2022,798
+Assam,C,BSNL,2023,1258
+Assam,C,BSNL,2024,1119
+Assam,C,Jio,2018,91386
+Assam,C,Jio,2019,64506
+Assam,C,Jio,2020,36300
+Assam,C,Jio,2021,23443
+Assam,C,Jio,2022,23013
+Assam,C,Jio,2023,24363
+Assam,C,Jio,2024,18899
+Assam,C,Vi,2018,18838
+Assam,C,Vi,2019,9763
+Assam,C,Vi,2020,7210
+Assam,C,Vi,2021,6403
+Assam,C,Vi,2022,5380
+Assam,C,Vi,2023,3418
+Assam,C,Vi,2024,1871
+Bihar,C,Airtel,2018,117308
+Bihar,C,Airtel,2019,91462
+Bihar,C,Airtel,2020,105751
+Bihar,C,Airtel,2021,60556
+Bihar,C,Airtel,2022,52718
+Bihar,C,Airtel,2023,73695
+Bihar,C,Airtel,2024,32328
+Bihar,C,BSNL,2018,58
+Bihar,C,BSNL,2019,171
+Bihar,C,BSNL,2020,64
+Bihar,C,BSNL,2021,54
+Bihar,C,BSNL,2022,3988
+Bihar,C,BSNL,2023,3207
+Bihar,C,BSNL,2024,7072
+Bihar,C,Jio,2018,406443
+Bihar,C,Jio,2019,111186
+Bihar,C,Jio,2020,63908
+Bihar,C,Jio,2021,78751
+Bihar,C,Jio,2022,83077
+Bihar,C,Jio,2023,138213
+Bihar,C,Jio,2024,83091
+Bihar,C,Vi,2018,15005
+Bihar,C,Vi,2019,13309
+Bihar,C,Vi,2020,18215
+Bihar,C,Vi,2021,11668
+Bihar,C,Vi,2022,6044
+Bihar,C,Vi,2023,11636
+Bihar,C,Vi,2024,4533
+Chennai,Metro,Airtel,2018,42015
+Chennai,Metro,Airtel,2019,24713
+Chennai,Metro,Airtel,2020,21303
+Chennai,Metro,Airtel,2021,17946
+Chennai,Metro,Airtel,2022,11746
+Chennai,Metro,Airtel,2023,34869
+Chennai,Metro,Airtel,2024,22122
+Chennai,Metro,BSNL,2018,4391
+Chennai,Metro,BSNL,2019,8416
+Chennai,Metro,BSNL,2020,10445
+Chennai,Metro,BSNL,2021,3941
+Chennai,Metro,BSNL,2022,2146
+Chennai,Metro,BSNL,2023,2883
+Chennai,Metro,BSNL,2024,3609
+Chennai,Metro,Jio,2018,100792
+Chennai,Metro,Jio,2019,51670
+Chennai,Metro,Jio,2020,32199
+Chennai,Metro,Jio,2021,30530
+Chennai,Metro,Jio,2022,18366
+Chennai,Metro,Jio,2023,9559
+Chennai,Metro,Jio,2024,37284
+Chennai,Metro,Vi,2018,52100
+Chennai,Metro,Vi,2019,21221
+Chennai,Metro,Vi,2020,14259
+Chennai,Metro,Vi,2021,8225
+Chennai,Metro,Vi,2022,5976
+Chennai,Metro,Vi,2023,4139
+Chennai,Metro,Vi,2024,2466
+Delhi,Metro,Airtel,2018,142571
+Delhi,Metro,Airtel,2019,72159
+Delhi,Metro,Airtel,2020,66893
+Delhi,Metro,Airtel,2021,31988
+Delhi,Metro,Airtel,2022,36586
+Delhi,Metro,Airtel,2023,63432
+Delhi,Metro,Airtel,2024,30853
+Delhi,Metro,BSNL,2018,7
+Delhi,Metro,BSNL,2019,6
+Delhi,Metro,BSNL,2021,24
+Delhi,Metro,BSNL,2022,160
+Delhi,Metro,Jio,2018,364750
+Delhi,Metro,Jio,2019,457847
+Delhi,Metro,Jio,2020,188183
+Delhi,Metro,Jio,2021,93800
+Delhi,Metro,Jio,2022,93465
+Delhi,Metro,Jio,2023,104587
+Delhi,Metro,Jio,2024,74945
+Delhi,Metro,Vi,2018,99571
+Delhi,Metro,Vi,2019,60964
+Delhi,Metro,Vi,2020,40280
+Delhi,Metro,Vi,2021,24446
+Delhi,Metro,Vi,2022,14029
+Delhi,Metro,Vi,2023,12873
+Delhi,Metro,Vi,2024,6670
+Gujarat,A,Airtel,2018,63225
+Gujarat,A,Airtel,2019,40924
+Gujarat,A,Airtel,2020,42241
+Gujarat,A,Airtel,2021,28430
+Gujarat,A,Airtel,2022,19782
+Gujarat,A,Airtel,2023,31169
+Gujarat,A,Airtel,2024,22506
+Gujarat,A,BSNL,2018,66
+Gujarat,A,BSNL,2019,235
+Gujarat,A,BSNL,2020,268
+Gujarat,A,BSNL,2021,60
+Gujarat,A,BSNL,2022,3104
+Gujarat,A,BSNL,2023,2941
+Gujarat,A,BSNL,2024,5609
+Gujarat,A,Jio,2018,575392
+Gujarat,A,Jio,2019,281501
+Gujarat,A,Jio,2020,177863
+Gujarat,A,Jio,2021,104245
+Gujarat,A,Jio,2022,67233
+Gujarat,A,Jio,2023,133246
+Gujarat,A,Jio,2024,87071
+Gujarat,A,Vi,2018,192946
+Gujarat,A,Vi,2019,142906
+Gujarat,A,Vi,2020,63797
+Gujarat,A,Vi,2021,35057
+Gujarat,A,Vi,2022,26875
+Gujarat,A,Vi,2023,42696
+Gujarat,A,Vi,2024,22511
+Haryana,B,Airtel,2018,49013
+Haryana,B,Airtel,2019,50155
+Haryana,B,Airtel,2020,43225
+Haryana,B,Airtel,2021,13241
+Haryana,B,Airtel,2022,151905
+Haryana,B,Airtel,2023,1931159
+Haryana,B,Airtel,2024,825609
+Haryana,B,BSNL,2018,18
+Haryana,B,BSNL,2019,53
+Haryana,B,BSNL,2020,30
+Haryana,B,BSNL,2021,1918
+Haryana,B,BSNL,2022,3327
+Haryana,B,BSNL,2023,5165
+Haryana,B,BSNL,2024,7980
+Haryana,B,Jio,2018,135874
+Haryana,B,Jio,2019,90582
+Haryana,B,Jio,2020,58493
+Haryana,B,Jio,2021,44795
+Haryana,B,Jio,2022,136547
+Haryana,B,Jio,2023,1636300
+Haryana,B,Jio,2024,664024
+Haryana,B,Vi,2018,100179
+Haryana,B,Vi,2019,51064
+Haryana,B,Vi,2020,13102
+Haryana,B,Vi,2021,6572
+Haryana,B,Vi,2022,5571
+Haryana,B,Vi,2023,8034
+Haryana,B,Vi,2024,3501
+Himachal Pradesh,C,Airtel,2018,53187
+Himachal Pradesh,C,Airtel,2019,31634
+Himachal Pradesh,C,Airtel,2020,12987
+Himachal Pradesh,C,Airtel,2021,6318
+Himachal Pradesh,C,Airtel,2022,3360
+Himachal Pradesh,C,Airtel,2023,9051
+Himachal Pradesh,C,Airtel,2024,4600
+Himachal Pradesh,C,BSNL,2018,36
+Himachal Pradesh,C,BSNL,2019,50
+Himachal Pradesh,C,BSNL,2020,289
+Himachal Pradesh,C,BSNL,2021,3492
+Himachal Pradesh,C,BSNL,2022,7057
+Himachal Pradesh,C,BSNL,2023,3288
+Himachal Pradesh,C,BSNL,2024,9174
+Himachal Pradesh,C,Jio,2018,70565
+Himachal Pradesh,C,Jio,2019,37340
+Himachal Pradesh,C,Jio,2020,22461
+Himachal Pradesh,C,Jio,2021,13238
+Himachal Pradesh,C,Jio,2022,8649
+Himachal Pradesh,C,Jio,2023,17268
+Himachal Pradesh,C,Jio,2024,18179
+Himachal Pradesh,C,Vi,2018,4359
+Himachal Pradesh,C,Vi,2019,2598
+Himachal Pradesh,C,Vi,2020,1684
+Himachal Pradesh,C,Vi,2021,1104
+Himachal Pradesh,C,Vi,2022,1119
+Himachal Pradesh,C,Vi,2023,638
+Himachal Pradesh,C,Vi,2024,365
+Jammu & Kashmir,C,Airtel,2018,101907
+Jammu & Kashmir,C,Airtel,2019,9691
+Jammu & Kashmir,C,Airtel,2020,5558
+Jammu & Kashmir,C,Airtel,2021,10601
+Jammu & Kashmir,C,Airtel,2022,4397
+Jammu & Kashmir,C,Airtel,2023,9553
+Jammu & Kashmir,C,Airtel,2024,3219
+Jammu & Kashmir,C,BSNL,2018,60
+Jammu & Kashmir,C,BSNL,2019,85
+Jammu & Kashmir,C,BSNL,2020,22
+Jammu & Kashmir,C,BSNL,2021,882
+Jammu & Kashmir,C,BSNL,2022,1713
+Jammu & Kashmir,C,BSNL,2023,1433
+Jammu & Kashmir,C,BSNL,2024,1421
+Jammu & Kashmir,C,Jio,2018,61342
+Jammu & Kashmir,C,Jio,2019,30248
+Jammu & Kashmir,C,Jio,2020,12327
+Jammu & Kashmir,C,Jio,2021,9610
+Jammu & Kashmir,C,Jio,2022,4399
+Jammu & Kashmir,C,Jio,2023,10199
+Jammu & Kashmir,C,Jio,2024,5651
+Jammu & Kashmir,C,Vi,2018,12727
+Jammu & Kashmir,C,Vi,2019,12572
+Jammu & Kashmir,C,Vi,2020,4080
+Jammu & Kashmir,C,Vi,2021,3258
+Jammu & Kashmir,C,Vi,2022,4449
+Jammu & Kashmir,C,Vi,2023,260
+Jammu & Kashmir,C,Vi,2024,98
+Karnataka,A,Airtel,2018,126265
+Karnataka,A,Airtel,2019,89387
+Karnataka,A,Airtel,2020,94454
+Karnataka,A,Airtel,2021,47045
+Karnataka,A,Airtel,2022,33200
+Karnataka,A,Airtel,2023,58507
+Karnataka,A,Airtel,2024,28538
+Karnataka,A,BSNL,2018,19151
+Karnataka,A,BSNL,2019,28420
+Karnataka,A,BSNL,2020,18951
+Karnataka,A,BSNL,2021,7921
+Karnataka,A,BSNL,2022,6155
+Karnataka,A,BSNL,2023,3035
+Karnataka,A,BSNL,2024,5383
+Karnataka,A,Jio,2018,299082
+Karnataka,A,Jio,2019,286851
+Karnataka,A,Jio,2020,124211
+Karnataka,A,Jio,2021,93985
+Karnataka,A,Jio,2022,73718
+Karnataka,A,Jio,2023,123209
+Karnataka,A,Jio,2024,71891
+Karnataka,A,Vi,2018,83067
+Karnataka,A,Vi,2019,56138
+Karnataka,A,Vi,2020,30197
+Karnataka,A,Vi,2021,17295
+Karnataka,A,Vi,2022,9519
+Karnataka,A,Vi,2023,7746
+Karnataka,A,Vi,2024,5071
+Kerala,B,Airtel,2018,69083
+Kerala,B,Airtel,2019,61582
+Kerala,B,Airtel,2020,137777
+Kerala,B,Airtel,2021,73553
+Kerala,B,Airtel,2022,42585
+Kerala,B,Airtel,2023,77532
+Kerala,B,Airtel,2024,43754
+Kerala,B,BSNL,2018,30288
+Kerala,B,BSNL,2019,49349
+Kerala,B,BSNL,2020,45730
+Kerala,B,BSNL,2021,20003
+Kerala,B,BSNL,2022,8399
+Kerala,B,BSNL,2023,10377
+Kerala,B,BSNL,2024,13540
+Kerala,B,Jio,2018,326081
+Kerala,B,Jio,2019,305821
+Kerala,B,Jio,2020,263743
+Kerala,B,Jio,2021,173300
+Kerala,B,Jio,2022,105201
+Kerala,B,Jio,2023,177541
+Kerala,B,Jio,2024,119499
+Kerala,B,Vi,2018,189819
+Kerala,B,Vi,2019,145806
+Kerala,B,Vi,2020,81424
+Kerala,B,Vi,2021,53550
+Kerala,B,Vi,2022,22242
+Kerala,B,Vi,2023,34704
+Kerala,B,Vi,2024,25700
+Kolkata,Metro,Airtel,2018,44671
+Kolkata,Metro,Airtel,2019,23721
+Kolkata,Metro,Airtel,2020,28016
+Kolkata,Metro,Airtel,2021,14328
+Kolkata,Metro,Airtel,2022,11875
+Kolkata,Metro,Airtel,2023,18618
+Kolkata,Metro,Airtel,2024,10397
+Kolkata,Metro,BSNL,2018,50
+Kolkata,Metro,BSNL,2019,67
+Kolkata,Metro,BSNL,2020,12
+Kolkata,Metro,BSNL,2021,12
+Kolkata,Metro,BSNL,2022,1684
+Kolkata,Metro,BSNL,2023,1377
+Kolkata,Metro,BSNL,2024,4096
+Kolkata,Metro,Jio,2018,259237
+Kolkata,Metro,Jio,2019,163904
+Kolkata,Metro,Jio,2020,83076
+Kolkata,Metro,Jio,2021,67601
+Kolkata,Metro,Jio,2022,43874
+Kolkata,Metro,Jio,2023,92849
+Kolkata,Metro,Jio,2024,71989
+Kolkata,Metro,Vi,2018,41334
+Kolkata,Metro,Vi,2019,35366
+Kolkata,Metro,Vi,2020,31284
+Kolkata,Metro,Vi,2021,21223
+Kolkata,Metro,Vi,2022,11724
+Kolkata,Metro,Vi,2023,19366
+Kolkata,Metro,Vi,2024,15013
+Madhya Pradesh,B,Airtel,2018,90891
+Madhya Pradesh,B,Airtel,2019,64287
+Madhya Pradesh,B,Airtel,2020,50442
+Madhya Pradesh,B,Airtel,2021,24083
+Madhya Pradesh,B,Airtel,2022,16930
+Madhya Pradesh,B,Airtel,2023,31794
+Madhya Pradesh,B,Airtel,2024,15755
+Madhya Pradesh,B,BSNL,2018,5536
+Madhya Pradesh,B,BSNL,2019,27677
+Madhya Pradesh,B,BSNL,2020,15040
+Madhya Pradesh,B,BSNL,2021,4752
+Madhya Pradesh,B,BSNL,2022,3877
+Madhya Pradesh,B,BSNL,2023,2887
+Madhya Pradesh,B,BSNL,2024,7549
+Madhya Pradesh,B,Jio,2018,649083
+Madhya Pradesh,B,Jio,2019,279119
+Madhya Pradesh,B,Jio,2020,201239
+Madhya Pradesh,B,Jio,2021,98576
+Madhya Pradesh,B,Jio,2022,94203
+Madhya Pradesh,B,Jio,2023,100794
+Madhya Pradesh,B,Jio,2024,79636
+Madhya Pradesh,B,Vi,2018,172108
+Madhya Pradesh,B,Vi,2019,60063
+Madhya Pradesh,B,Vi,2020,42239
+Madhya Pradesh,B,Vi,2021,28834
+Madhya Pradesh,B,Vi,2022,36341
+Madhya Pradesh,B,Vi,2023,20388
+Madhya Pradesh,B,Vi,2024,19158
+Maharashtra,A,Airtel,2018,136240
+Maharashtra,A,Airtel,2019,90289
+Maharashtra,A,Airtel,2020,155290
+Maharashtra,A,Airtel,2021,107963
+Maharashtra,A,Airtel,2022,43215
+Maharashtra,A,Airtel,2023,86605
+Maharashtra,A,Airtel,2024,49891
+Maharashtra,A,BSNL,2018,15192
+Maharashtra,A,BSNL,2019,54881
+Maharashtra,A,BSNL,2020,26387
+Maharashtra,A,BSNL,2021,14513
+Maharashtra,A,BSNL,2022,9650
+Maharashtra,A,BSNL,2023,8109
+Maharashtra,A,BSNL,2024,14783
+Maharashtra,A,Jio,2018,667352
+Maharashtra,A,Jio,2019,544222
+Maharashtra,A,Jio,2020,338634
+Maharashtra,A,Jio,2021,143087
+Maharashtra,A,Jio,2022,76642
+Maharashtra,A,Jio,2023,160604
+Maharashtra,A,Jio,2024,152065
+Maharashtra,A,Vi,2018,283873
+Maharashtra,A,Vi,2019,324383
+Maharashtra,A,Vi,2020,227460
+Maharashtra,A,Vi,2021,94502
+Maharashtra,A,Vi,2022,38647
+Maharashtra,A,Vi,2023,59570
+Maharashtra,A,Vi,2024,26191
+Mumbai,Metro,Airtel,2018,68919
+Mumbai,Metro,Airtel,2019,35334
+Mumbai,Metro,Airtel,2020,29535
+Mumbai,Metro,Airtel,2021,16652
+Mumbai,Metro,Airtel,2022,11348
+Mumbai,Metro,Airtel,2023,21080
+Mumbai,Metro,Airtel,2024,12835
+Mumbai,Metro,BSNL,2018,7
+Mumbai,Metro,BSNL,2019,22
+Mumbai,Metro,BSNL,2020,2
+Mumbai,Metro,BSNL,2021,18
+Mumbai,Metro,BSNL,2022,6
+Mumbai,Metro,Jio,2018,149822
+Mumbai,Metro,Jio,2019,128905
+Mumbai,Metro,Jio,2020,56584
+Mumbai,Metro,Jio,2021,52806
+Mumbai,Metro,Jio,2022,139215
+Mumbai,Metro,Jio,2023,147413
+Mumbai,Metro,Jio,2024,272881
+Mumbai,Metro,Vi,2018,68171
+Mumbai,Metro,Vi,2019,64339
+Mumbai,Metro,Vi,2020,40342
+Mumbai,Metro,Vi,2021,23072
+Mumbai,Metro,Vi,2022,12483
+Mumbai,Metro,Vi,2023,14419
+Mumbai,Metro,Vi,2024,7465
+North East,C,Airtel,2018,42308
+North East,C,Airtel,2019,27883
+North East,C,Airtel,2020,3852
+North East,C,Airtel,2021,3978
+North East,C,Airtel,2022,7919
+North East,C,Airtel,2023,11548
+North East,C,Airtel,2024,8119
+North East,C,BSNL,2018,320
+North East,C,BSNL,2019,365
+North East,C,BSNL,2020,267
+North East,C,BSNL,2021,210
+North East,C,BSNL,2022,1136
+North East,C,BSNL,2023,1009
+North East,C,BSNL,2024,1002
+North East,C,Jio,2018,72764
+North East,C,Jio,2019,60362
+North East,C,Jio,2020,15866
+North East,C,Jio,2021,3236
+North East,C,Jio,2022,7529
+North East,C,Jio,2023,10336
+North East,C,Jio,2024,14475
+North East,C,Vi,2018,14685
+North East,C,Vi,2019,7522
+North East,C,Vi,2020,4110
+North East,C,Vi,2021,1894
+North East,C,Vi,2022,1044
+North East,C,Vi,2023,1436
+North East,C,Vi,2024,1285
+Orissa,C,Airtel,2018,58616
+Orissa,C,Airtel,2019,30680
+Orissa,C,Airtel,2020,34205
+Orissa,C,Airtel,2021,16222
+Orissa,C,Airtel,2022,11364
+Orissa,C,Airtel,2023,27684
+Orissa,C,Airtel,2024,17598
+Orissa,C,BSNL,2018,80
+Orissa,C,BSNL,2019,88
+Orissa,C,BSNL,2020,62
+Orissa,C,BSNL,2021,54
+Orissa,C,BSNL,2022,1626
+Orissa,C,BSNL,2023,1040
+Orissa,C,BSNL,2024,4587
+Orissa,C,Jio,2018,282403
+Orissa,C,Jio,2019,201200
+Orissa,C,Jio,2020,121015
+Orissa,C,Jio,2021,74996
+Orissa,C,Jio,2022,80731
+Orissa,C,Jio,2023,75996
+Orissa,C,Jio,2024,61877
+Orissa,C,Vi,2018,30292
+Orissa,C,Vi,2019,6465
+Orissa,C,Vi,2020,6692
+Orissa,C,Vi,2021,4369
+Orissa,C,Vi,2022,2361
+Orissa,C,Vi,2023,2042
+Orissa,C,Vi,2024,2727
+Punjab,B,Airtel,2018,111141
+Punjab,B,Airtel,2019,79277
+Punjab,B,Airtel,2020,62035
+Punjab,B,Airtel,2021,27914
+Punjab,B,Airtel,2022,21305
+Punjab,B,Airtel,2023,32630
+Punjab,B,Airtel,2024,20719
+Punjab,B,BSNL,2018,177
+Punjab,B,BSNL,2019,152
+Punjab,B,BSNL,2020,58
+Punjab,B,BSNL,2021,1595
+Punjab,B,BSNL,2022,6456
+Punjab,B,BSNL,2023,8676
+Punjab,B,BSNL,2024,11355
+Punjab,B,Jio,2018,306581
+Punjab,B,Jio,2019,164847
+Punjab,B,Jio,2020,90843
+Punjab,B,Jio,2021,54486
+Punjab,B,Jio,2022,46061
+Punjab,B,Jio,2023,63319
+Punjab,B,Jio,2024,140684
+Punjab,B,Vi,2018,48206
+Punjab,B,Vi,2019,34568
+Punjab,B,Vi,2020,16295
+Punjab,B,Vi,2021,13436
+Punjab,B,Vi,2022,8494
+Punjab,B,Vi,2023,10738
+Punjab,B,Vi,2024,6254
+Rajasthan,B,Airtel,2018,120429
+Rajasthan,B,Airtel,2019,47828
+Rajasthan,B,Airtel,2020,68320
+Rajasthan,B,Airtel,2021,33933
+Rajasthan,B,Airtel,2022,21684
+Rajasthan,B,Airtel,2023,46475
+Rajasthan,B,Airtel,2024,31502
+Rajasthan,B,BSNL,2018,110
+Rajasthan,B,BSNL,2019,286
+Rajasthan,B,BSNL,2020,153
+Rajasthan,B,BSNL,2021,4896
+Rajasthan,B,BSNL,2022,13784
+Rajasthan,B,BSNL,2023,11156
+Rajasthan,B,BSNL,2024,11841
+Rajasthan,B,Jio,2018,451347
+Rajasthan,B,Jio,2019,229396
+Rajasthan,B,Jio,2020,179610
+Rajasthan,B,Jio,2021,100244
+Rajasthan,B,Jio,2022,55656
+Rajasthan,B,Jio,2023,130432
+Rajasthan,B,Jio,2024,60666
+Rajasthan,B,Vi,2018,73064
+Rajasthan,B,Vi,2019,49023
+Rajasthan,B,Vi,2020,18837
+Rajasthan,B,Vi,2021,18778
+Rajasthan,B,Vi,2022,12292
+Rajasthan,B,Vi,2023,16030
+Rajasthan,B,Vi,2024,10677
+Tamil Nadu,A,Airtel,2018,85141
+Tamil Nadu,A,Airtel,2019,72953
+Tamil Nadu,A,Airtel,2020,87409
+Tamil Nadu,A,Airtel,2021,63659
+Tamil Nadu,A,Airtel,2022,38254
+Tamil Nadu,A,Airtel,2023,48811
+Tamil Nadu,A,Airtel,2024,33401
+Tamil Nadu,A,BSNL,2018,23155
+Tamil Nadu,A,BSNL,2019,53587
+Tamil Nadu,A,BSNL,2020,27613
+Tamil Nadu,A,BSNL,2021,12118
+Tamil Nadu,A,BSNL,2022,8966
+Tamil Nadu,A,BSNL,2023,5086
+Tamil Nadu,A,BSNL,2024,9362
+Tamil Nadu,A,Jio,2018,323621
+Tamil Nadu,A,Jio,2019,236316
+Tamil Nadu,A,Jio,2020,136264
+Tamil Nadu,A,Jio,2021,111226
+Tamil Nadu,A,Jio,2022,76591
+Tamil Nadu,A,Jio,2023,193544
+Tamil Nadu,A,Jio,2024,108974
+Tamil Nadu,A,Vi,2018,96209
+Tamil Nadu,A,Vi,2019,81631
+Tamil Nadu,A,Vi,2020,46386
+Tamil Nadu,A,Vi,2021,33141
+Tamil Nadu,A,Vi,2022,17210
+Tamil Nadu,A,Vi,2023,25843
+Tamil Nadu,A,Vi,2024,12529
+UP East,B,Airtel,2018,297316
+UP East,B,Airtel,2019,246232
+UP East,B,Airtel,2020,252910
+UP East,B,Airtel,2021,79789
+UP East,B,Airtel,2022,54677
+UP East,B,Airtel,2023,90275
+UP East,B,Airtel,2024,42937
+UP East,B,BSNL,2018,109
+UP East,B,BSNL,2019,363
+UP East,B,BSNL,2020,123
+UP East,B,BSNL,2021,4773
+UP East,B,BSNL,2022,12525
+UP East,B,BSNL,2023,7315
+UP East,B,BSNL,2024,14628
+UP East,B,Jio,2018,650309
+UP East,B,Jio,2019,607161
+UP East,B,Jio,2020,343464
+UP East,B,Jio,2021,157799
+UP East,B,Jio,2022,101149
+UP East,B,Jio,2023,156677
+UP East,B,Jio,2024,109717
+UP East,B,Vi,2018,128676
+UP East,B,Vi,2019,140022
+UP East,B,Vi,2020,110027
+UP East,B,Vi,2021,49554
+UP East,B,Vi,2022,19746
+UP East,B,Vi,2023,22666
+UP East,B,Vi,2024,15319
+UP West,B,Airtel,2018,105227
+UP West,B,Airtel,2019,51536
+UP West,B,Airtel,2020,103181
+UP West,B,Airtel,2021,49832
+UP West,B,Airtel,2022,22221
+UP West,B,Airtel,2023,35646
+UP West,B,Airtel,2024,20267
+UP West,B,BSNL,2018,117
+UP West,B,BSNL,2019,231
+UP West,B,BSNL,2020,36
+UP West,B,BSNL,2021,3145
+UP West,B,BSNL,2022,9605
+UP West,B,BSNL,2023,5632
+UP West,B,BSNL,2024,10794
+UP West,B,Jio,2018,442403
+UP West,B,Jio,2019,277441
+UP West,B,Jio,2020,147069
+UP West,B,Jio,2021,117981
+UP West,B,Jio,2022,69544
+UP West,B,Jio,2023,81488
+UP West,B,Jio,2024,63736
+UP West,B,Vi,2018,124523
+UP West,B,Vi,2019,93274
+UP West,B,Vi,2020,55217
+UP West,B,Vi,2021,24082
+UP West,B,Vi,2022,9081
+UP West,B,Vi,2023,12886
+UP West,B,Vi,2024,7801
+West Bengal,B,Airtel,2018,81629
+West Bengal,B,Airtel,2019,49086
+West Bengal,B,Airtel,2020,42263
+West Bengal,B,Airtel,2021,19647
+West Bengal,B,Airtel,2022,13484
+West Bengal,B,Airtel,2023,28153
+West Bengal,B,Airtel,2024,22526
+West Bengal,B,BSNL,2018,146
+West Bengal,B,BSNL,2019,173
+West Bengal,B,BSNL,2020,105
+West Bengal,B,BSNL,2021,21
+West Bengal,B,BSNL,2022,2504
+West Bengal,B,BSNL,2023,2813
+West Bengal,B,BSNL,2024,4623
+West Bengal,B,Jio,2018,207420
+West Bengal,B,Jio,2019,111283
+West Bengal,B,Jio,2020,85120
+West Bengal,B,Jio,2021,34718
+West Bengal,B,Jio,2022,29922
+West Bengal,B,Jio,2023,39733
+West Bengal,B,Jio,2024,62054
+West Bengal,B,Vi,2018,42819
+West Bengal,B,Vi,2019,38488
+West Bengal,B,Vi,2020,34148
+West Bengal,B,Vi,2021,22182
+West Bengal,B,Vi,2022,10454
+West Bengal,B,Vi,2023,10731
+West Bengal,B,Vi,2024,5897
