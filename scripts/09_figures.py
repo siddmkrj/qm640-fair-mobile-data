@@ -51,13 +51,13 @@ ax.set_ylabel('Tests per 1,000 active subs per year'); ax.set_xlabel('Circle cat
 
 # F7 RQ4 false-negative rate by group on the hold-out, three models
 g = pd.read_csv(os.path.join(TAB, 'rq4_group_metrics.csv')); g = g[g.split == 'hold-out 2023-2024']
-models = ['Logistic regression (baseline)', 'Random forest', 'LightGBM']; MC = {'Logistic regression (baseline)': '#7FB2D9', 'Random forest': '#3F7CAC', 'LightGBM': '#1F3A5F'}
+models = ['Logistic regression (baseline)', 'LightGBM']; MC = {'Logistic regression (baseline)': '#7FB2D9', 'LightGBM': '#1F3A5F'}
 fig, axes = plt.subplots(1, 2, figsize=(7.4, 3.2), sharey=True)
 for ax, gv, order in zip(axes, ['category', 'provider'], [CATS, PROV]):
-    sub = g[g.group_var == gv]; x = np.arange(len(order)); w = .25
+    sub = g[g.group_var == gv]; x = np.arange(len(order)); w = .36
     for i, mname in enumerate(models):
         v = sub[sub.model == mname].set_index('group').reindex(order).fnr
-        ax.bar(x + (i - 1) * w, v, w, color=MC[mname], label=mname.replace(' (baseline)', ''), linewidth=0)
+        ax.bar(x + (i - 0.5) * w, v, w, color=MC[mname], label=mname.replace(' (baseline)', ''), linewidth=0)
     ax.set_xticks(x); ax.set_xticklabels(order); ax.set_xlabel('Circle category' if gv == 'category' else 'Provider')
 axes[0].set_ylabel('False-negative rate, hold-out'); axes[0].legend(frameon=False, fontsize=8); save(fig, 'f07_rq4_fnr_groups.png')
 
